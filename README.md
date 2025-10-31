@@ -18,3 +18,13 @@ Bu proje, Python ve OpenCV kullanarak gerçek zamanlı yüz ifadelerini analiz e
 2. Gerekli kütüphaneleri yükleyin:
 ```bash
 pip install opencv-python
+```
+---
+
+## 🔹 Katkıda Bulunanlar
+- Batuhan (Sahibi / Geliştirici)
+
+---
+
+## 🔹 Lisans
+MIT License
