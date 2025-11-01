@@ -43,12 +43,6 @@ Sonuçlar anlık olarak ekranda gösterilir.
 
 ---
 
-## 🖼️ Örnek Görsel
-
-📸 *Canlı kamera üzerinden yüz ifadesi tespiti ekran görüntüsü burada paylaşılabilir.*
-
----
-
 ## 👨‍💻 Katkıda Bulunanlar
 
 | İsim        | Rol                               |
