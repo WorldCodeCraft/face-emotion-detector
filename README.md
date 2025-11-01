@@ -1,9 +1,3 @@
-Tabii Batu 👇
-Aşağıda **Face Emotion Detector** projenin tam, toplu ve profesyonel biçimde hazırlanmış **Markdown (README.md)** sürümü var.
-Direkt GitHub’a kopyalayıp yapıştırabilirsin 💪
-
----
-
 # 😊 Face Emotion Detector  
 
 ## 🔹 Proje Hakkında  
