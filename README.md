@@ -4,7 +4,6 @@ Direkt GitHub’a kopyalayıp yapıştırabilirsin 💪
 
 ---
 
-````markdown
 # 😊 Face Emotion Detector  
 
 ## 🔹 Proje Hakkında  
@@ -30,13 +29,11 @@ Sonuçlar anlık olarak ekranda gösterilir.
 2. Gerekli kütüphaneleri yükleyin:  
    ```bash
    pip install opencv-python
-````
 
 3. Proje dosyasını indirin veya klonlayın.
 
 4. Terminal veya IDE üzerinden çalıştırın:
-
-   ```bash
+  ```bash
    python face_emotion_detector.py
    ```
 
