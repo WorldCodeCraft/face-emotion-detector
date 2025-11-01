@@ -56,7 +56,6 @@ Sonuçlar anlık olarak ekranda gösterilir.
 ## 📜 Lisans
 
 **MIT License**
-Bu proje eğitim, deneyim ve portföy geliştirme amacıyla oluşturulmuştur.
+Bu proje eğitim, deneyim ve portföy geliştirme amacıyla oluşturulmuştur. 
 © 2025 Batuhan, Mushap ve Furkan — Tüm hakları saklıdır.
 
-```
