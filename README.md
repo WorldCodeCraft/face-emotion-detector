@@ -27,7 +27,7 @@ Sonuçlar anlık olarak ekranda gösterilir.
 3. Proje dosyasını indirin veya klonlayın.
 
 4. Terminal veya IDE üzerinden çalıştırın:
-  ```bash
+   ```bash
    python face_emotion_detector.py
    ```
 
